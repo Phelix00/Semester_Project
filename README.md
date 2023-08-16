@@ -1,1 +1,4 @@
-# Semester_Project
+NAME : Owusu-Yeboah Felix Kwadwo
+INDEX NUMBER : UEB3242422
+CLASS : IT A 
+PROJECT NAME : TRADING APPLICATION
